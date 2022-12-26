@@ -60,13 +60,12 @@ Dataset source: (https://drive.google.com/file/d/1syH81TVrbBsdymLT_jl2JIf6IjPXtS
 
 
 #### The Avg Number of Sale by Outlet Size and Type
-![sample image](Screenshot 2022-09-22 204611.png)
+<img src="Screenshot 2022-09-22 204611.png" alt="graph">
 
 > This chart show the different in sales by Outlet Size and we see that there no pattern
 
 #### The Average Sales Per Item Type
-
-![sample image](Screenshot 2022-09-22 204656.png)
+<img src="Screenshot 2022-09-22 204656.png" alt="graph">
 
 >This graph show average basic on item type
 
